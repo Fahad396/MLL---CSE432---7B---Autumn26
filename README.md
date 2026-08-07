@@ -6,7 +6,7 @@ Welcome to the official repository for **CSE432 - Machine Learning Lab**, Sectio
 
 ```text
 ├── 📂 Labs/                  # Weekly lab notebooks, scripts, and practice tasks
-│   ├── Lab-01/               # Data Visualization
+│   ├── Lab-01/               # Data Visualization with matplotlib and seaborn
 │   ├── Lab-02/               # Supervised Learning: Regression & Classification
 │   └── ...
 ├── 📂 Assignments-1/          # Homework submission templates & guidelines and assignment Data Visualization Homework
